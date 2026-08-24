@@ -1,3 +1,39 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1787227898
+::res://::1787563050
 icon.svg::CompressedTexture2D::1022612453045715639::1787227887::1787227900::1::::<><><>0<>0<>dafc2e90f905e991c4246fe5f13e5d8a<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1787423819::0::1::::<><><>0<>0<><>::
+::res://addons/::1787422679
+::res://addons/godot_super-wakatime/::1787422679
+api_key_prompt.tscn::PackedScene::3919262858641749045::1787422679::0::1::::<><><>0<>0<><>::
+counter.tscn::PackedScene::6849360014225833986::1787422679::0::1::::<><><>0<>0<><>::
+decompressor.gd::GDScript::513498479588648040::1787422679::0::1::::<>RefCounted<><>0<>0<><>::
+godot_super-wakatime.gd::GDScript::6277149880384411866::1787422679::0::1::::<>EditorPlugin<><>0<>1<><>::
+plugin.cfg::TextFile::-1::1787422679::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1787422679::0::1::::<><><>0<>0<><>::
+utils.gd::GDScript::5251015809120159908::1787422679::0::1::::<>RefCounted<><>0<>0<><>::
+::res://assets/::1787557652
+::res://assets/enemy/::1787557736
+Massacre Sprite Sheet.png::CompressedTexture2D::3816014405854076574::1787557702::1787557736::1::::<><><>0<>0<>a4e8633a50d40149043a6f5260e7b17a<>res://.godot/imported/Massacre Sprite Sheet.png-dce2a8e7add6decc1aa16a3b8c45dea5.ctex::
+::res://assets/forest/::1787557729
+::res://assets/forest/Background/::1787557736
+Dark Tree.png::CompressedTexture2D::3430226410658781525::1787557729::1787557736::1::::<><><>0<>0<>89a76521f9e5c7ea3c59dbe05f9f62b5<>res://.godot/imported/Dark Tree.png-5b42e189a89d7ac71806fc52a09eb4dd.ctex::
+Far Forest.png::CompressedTexture2D::1627578329934815162::1787557729::1787557736::1::::<><><>0<>0<>eede8a990da711562400e96095353899<>res://.godot/imported/Far Forest.png-369757f803435511e436879faecc1a85.ctex::
+Night.png::CompressedTexture2D::4462621344536474632::1787557729::1787557736::1::::<><><>0<>0<>8ca19aa131931b0ea3b7699a96489802<>res://.godot/imported/Night.png-7160900b2f41f23b2eb545ff58410faa.ctex::
+::res://assets/forest/Itens/::1787557736
+chest spritesheet animations.png::CompressedTexture2D::8480736105611004737::1787557729::1787557736::1::::<><><>0<>0<>2abb24bab2a54058ada456fd64ca5412<>res://.godot/imported/chest spritesheet animations.png-dafe2cd1b0d41403588726e7731dbf83.ctex::
+sign.png::CompressedTexture2D::7551492306828805216::1787557729::1787557736::1::::<><><>0<>0<>ddc1b191e27ed581b2dd249ff5d6dca3<>res://.godot/imported/sign.png-2be057729f6f941b5237e3d51158c728.ctex::
+::res://assets/forest/mockup/::1787557736
+Demo original1.png::CompressedTexture2D::3237770919032248046::1787557729::1787557736::1::::<><><>0<>0<>5c5b84fd25c9dd615a079177f2ff4671<>res://.godot/imported/Demo original1.png-5cdb761d83a159dfcfd5a6e8ee904441.ctex::
+Demo original2.png::CompressedTexture2D::9043675332843362942::1787557729::1787557736::1::::<><><>0<>0<>70ee7b917b29cee96adc23c73857bc7e<>res://.godot/imported/Demo original2.png-d6fd94d8b79a1ac1c69cc8afbafbc6e3.ctex::
+Demo original3.png::CompressedTexture2D::1686495833092862706::1787557729::1787557736::1::::<><><>0<>0<>db9465128f847ac6a65d98be4f9b6375<>res://.godot/imported/Demo original3.png-076ef0eb780332e1b6d74c0e97ce4283.ctex::
+Demo original4.png::CompressedTexture2D::1677248482998373497::1787557729::1787557736::1::::<><><>0<>0<>586af84cb8402365ca3337ccf4fd780b<>res://.godot/imported/Demo original4.png-f5f4f355fbfee088e0d50916d3b19270.ctex::
+::res://assets/forest/Tileset/::1787557736
+Tileset.png::CompressedTexture2D::7912873772129144258::1787557729::1787557736::1::::<><><>0<>0<>8f151eca4c76156935382e2375ec504e<>res://.godot/imported/Tileset.png-c8ed7b285af5316ba1a43d151fd73d4b.ctex::
+::res://assets/hero/::1787557676
+::res://assets/hero/Heroes99_free/::1787557736
+character_spritesheet.png::CompressedTexture2D::1679772646720569093::1787557676::1787557736::1::::<><><>0<>0<>8d0d0e5fbf6ea8ff45db28ce27d92fb5<>res://.godot/imported/character_spritesheet.png-dcab2d6500274c14aa1ee406778e6f2a.ctex::
+demochar_portrait_spritesheet.png::CompressedTexture2D::8273251098986605477::1787557676::1787557736::1::::<><><>0<>0<>ffbe75ed2b809f2c0ad3ffe54a526095<>res://.godot/imported/demochar_portrait_spritesheet.png-0071b5c4b26b42767aba4ff9b5a870b5.ctex::
+::res://scenes/::1787559513
+hero.tscn::PackedScene::7531906603439727314::1787563050::0::1::::<><><>0<>0<><>::uid://x6xu0ilmf37n::::res://assets/hero/Heroes99_free/character_spritesheet.png
+::res://script/::1787228084
+hero.gd::GDScript::3038830406336161850::1787563088::0::1::::<>CharacterBody2D<><>0<>0<><>::

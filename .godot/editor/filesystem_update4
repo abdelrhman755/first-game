@@ -1,2 +1,4 @@
-res://main.gd
-res://scenes/main.tscn
+res://scenes/player.tscn
+res://hero.tscn
+res://scenes/hero.tscn
+res://script/hero.gd
