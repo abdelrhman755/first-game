@@ -344,8 +344,11 @@ animations = [{
 "speed": 10.0
 }]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_u1ipw"]
-size = Vector2(16, 25.5)
+[sub_resource type="CircleShape2D" id="CircleShape2D_yvbpl"]
+radius = 13.038404
+
+[sub_resource type="WorldBoundaryShape2D" id="WorldBoundaryShape2D_jjepy"]
+distance = 28.0
 
 [node name="hero" type="CharacterBody2D" unique_id=94382686]
 script = ExtResource("1_yvbpl")
@@ -355,11 +358,21 @@ position = Vector2(0, 1)
 scale = Vector2(2, 2)
 sprite_frames = SubResource("SpriteFrames_p1r5x")
 animation = &"idle"
-frame_progress = 0.44863886
+frame_progress = 0.98771685
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1007809268]
-position = Vector2(-9, 2.75)
-shape = SubResource("RectangleShape2D_u1ipw")
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1226984868]
+position = Vector2(-17, 16)
+shape = SubResource("CircleShape2D_yvbpl")
 
-[node name="Camera2D" type="Camera2D" parent="." unique_id=1320525602]
-position = Vector2(32, 13)
+[node name="Camera2D" type="Camera2D" parent="." unique_id=5691145]
+process_callback = 0
+limit_smoothed = true
+position_smoothing_enabled = true
+position_smoothing_speed = 12.0
+
+[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1842250883]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=1790053663]
+position = Vector2(-18, 74)
+shape = SubResource("WorldBoundaryShape2D_jjepy")
+debug_color = Color(7.70092e-07, 0.564796, 0.86950773, 0.41960785)
